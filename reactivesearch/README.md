@@ -5,8 +5,7 @@
   <br />
 </h2>
 
-<p align="center">Elasticsearch UI components for React. <a href="https://opensource.appbase.io/reactivesearch/">Website 🌐</a></p>
-<p align="center" style="font-size: 1.2rem"><a href="https://scotch.io/tutorials/build-an-airbnb-clone-with-react-and-elasticsearch">Read how to build an Airbnb clone with ReactiveSearch</a>.</p>
+<p align="center">This module has been modified by Ke Yang for further data visualization - specifically working with different chart libraries.</p>
 
 <hr />
 
