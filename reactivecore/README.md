@@ -2,7 +2,9 @@
 
 [![npm version](https://badge.fury.io/js/%40appbaseio%2Freactivecore.svg)](https://badge.fury.io/js/%40appbaseio%2Freactivecore)
 
-This is the platform agnostic core architecture of reactive UI libraries.
+This is the platform agnostic core architecture of reactive UI libraries. 
+
+<p align="center">This module has been modified by Ke Yang for further data visualization - specifically working with different chart libraries.</p>
 
 ## Installation
 
