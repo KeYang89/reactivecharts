@@ -1,6 +1,6 @@
 {
 	"name": "@appbaseio/reactivecore",
-	"version": "1.5.2",
+	"version": "1.5.3",
 	"description": "Core architecture of reactive UI libraries",
 	"main": "lib/index.js",
 	"files": [
@@ -16,14 +16,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/appbaseio/reactivecore.git"
+		"url": "git+https://github.com/KeYang89/reactivecharts/reactivecore.git"
 	},
 	"author": "Deepak Grover <deepakgrover333@gmail.com> (https://github.com/metagrover), Ke Yang <yangkecoy@gmail.com> (https://github.com/KeYang89)",
 	"license": "Apache-2.0",
 	"bugs": {
-		"url": "https://github.com/appbaseio/reactivecore/issues"
+		"url": "https://github.com/KeYang89/reactivecharts/reactivecore/issues"
 	},
-	"homepage": "https://github.com/appbaseio/reactivecore#readme",
+	"homepage": "https://github.com/KeYang89/reactivecharts/reactivecore#readme",
 	"dependencies": {
 		"prop-types": "^15.6.0",
 		"redux": "^3.7.2",
