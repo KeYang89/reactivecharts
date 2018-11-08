@@ -119,6 +119,10 @@ var _ResultList = require('./components/result/ResultList');
 
 var _ResultList2 = _interopRequireDefault(_ResultList);
 
+var _ResultListSimple = require('./components/result/ResultListSimple');
+
+var _ResultListSimple2 = _interopRequireDefault(_ResultListSimple);
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 exports.ReactiveBase = _ReactiveBase2.default;
@@ -150,3 +154,4 @@ exports.CategorySearch = _CategorySearch2.default;
 exports.ReactiveList = _ReactiveList2.default;
 exports.ResultCard = _ResultCard2.default;
 exports.ResultList = _ResultList2.default;
+exports.ResultListSimple = _ResultListSimple2.default;

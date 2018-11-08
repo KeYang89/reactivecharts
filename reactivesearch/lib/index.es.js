@@ -32,7 +32,7 @@ import CategorySearch from './components/search/CategorySearch';
 import ReactiveList from './components/result/ReactiveList';
 import ResultCard from './components/result/ResultCard';
 import ResultList from './components/result/ResultList';
-
+import ResultListSimple from './components/result/ResultListSimple';
 export {
 // basic
 ReactiveBase, TextField, SelectedFilters, ToggleButton, NumberBox, DataController, TagCloud, ReactiveComponent,
@@ -50,4 +50,4 @@ SingleRange, MultiRange, SingleDropdownRange, MultiDropdownRange, RangeSlider, D
 DataSearch, CategorySearch,
 
 // result
-ReactiveList, ResultCard, ResultList };
+ReactiveList, ResultCard, ResultList,  ResultListSimple};
